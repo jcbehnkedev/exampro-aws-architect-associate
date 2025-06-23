@@ -1,7 +1,7 @@
 tasks:
-  - name: cdk
-    before: |
-      npm i -g aws-cdk
+#  - name: cdk
+#    before: |
+#      npm i -g aws-cdk
   - name: aws-cli
     before: 
       cd /workspace
